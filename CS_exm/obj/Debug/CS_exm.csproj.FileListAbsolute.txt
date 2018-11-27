@@ -1,0 +1,6 @@
+c:\users\zty\documents\visual studio 2013\Projects\CS_exm\CS_exm\bin\Debug\CS_exm.exe.config
+c:\users\zty\documents\visual studio 2013\Projects\CS_exm\CS_exm\bin\Debug\CS_exm.exe
+c:\users\zty\documents\visual studio 2013\Projects\CS_exm\CS_exm\bin\Debug\CS_exm.pdb
+c:\users\zty\documents\visual studio 2013\Projects\CS_exm\CS_exm\obj\Debug\CS_exm.csprojResolveAssemblyReference.cache
+c:\users\zty\documents\visual studio 2013\Projects\CS_exm\CS_exm\obj\Debug\CS_exm.exe
+c:\users\zty\documents\visual studio 2013\Projects\CS_exm\CS_exm\obj\Debug\CS_exm.pdb
